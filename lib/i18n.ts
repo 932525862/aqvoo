@@ -37,7 +37,7 @@ const uz = {
     p: "Mol go‘shti 14 ta sifatli bo‘limga ajratiladi va istalgan qismingiz yetkazib beriladi. Kerakli bo‘limni tanlang va buyurtmaga qo‘shing.",
     all: "Barchasi",
     add: "Buyurtmaga qo‘shish",
-    added: "Qo‘shildi",
+    added: "Qo‘shildi", 
     bestFor: "Nima uchun",
   },
   cats: { steak: "Steyk", roast: "Qovurma va kabob", stew: "Qaynatma va dimlama", mince: "Qiyma va palov" } as Record<CatId, string>,
